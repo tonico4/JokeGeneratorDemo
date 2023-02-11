@@ -1,0 +1,14 @@
+.container-group {
+    width: 200px;
+    height: 50px;
+    border: 3px solid #8C6239;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 28px;
+}
+
+i {
+    cursor: pointer;
+}
